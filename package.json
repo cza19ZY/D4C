@@ -1,0 +1,20 @@
+{
+    "name" : "d4c",
+    "version" : "1.0.0",
+    "description" : "Stand que sirve como bot para enviar MD",
+    "main" : "D4C.js",
+    "engines" : {
+        "node" : "14.x",
+        "npm" : "*"
+    },
+    "scripts" : {
+        "start" : "node D4C.js"
+    },
+    "author" : "Carlos19ZY",
+    "license" : "MIT",
+    "homepage" : "https://github.com/cza19ZY/D4C",
+    "dependencies" : {
+        "discord.js" : "^13.6.0",
+        "fs" : "0.0.1-security"
+    }
+}
