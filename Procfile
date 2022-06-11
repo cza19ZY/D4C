@@ -1,1 +1,1 @@
-worker: node D4C.js
+worker: node d4c
